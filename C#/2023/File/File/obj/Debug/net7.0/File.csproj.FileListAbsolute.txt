@@ -1,0 +1,14 @@
+C:\Users\iveel\source\repos\File\File\bin\Debug\net7.0\File.exe
+C:\Users\iveel\source\repos\File\File\bin\Debug\net7.0\File.deps.json
+C:\Users\iveel\source\repos\File\File\bin\Debug\net7.0\File.runtimeconfig.json
+C:\Users\iveel\source\repos\File\File\bin\Debug\net7.0\File.dll
+C:\Users\iveel\source\repos\File\File\bin\Debug\net7.0\File.pdb
+C:\Users\iveel\source\repos\File\File\obj\Debug\net7.0\File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iveel\source\repos\File\File\obj\Debug\net7.0\File.AssemblyInfoInputs.cache
+C:\Users\iveel\source\repos\File\File\obj\Debug\net7.0\File.AssemblyInfo.cs
+C:\Users\iveel\source\repos\File\File\obj\Debug\net7.0\File.csproj.CoreCompileInputs.cache
+C:\Users\iveel\source\repos\File\File\obj\Debug\net7.0\File.dll
+C:\Users\iveel\source\repos\File\File\obj\Debug\net7.0\refint\File.dll
+C:\Users\iveel\source\repos\File\File\obj\Debug\net7.0\File.pdb
+C:\Users\iveel\source\repos\File\File\obj\Debug\net7.0\File.genruntimeconfig.cache
+C:\Users\iveel\source\repos\File\File\obj\Debug\net7.0\ref\File.dll
